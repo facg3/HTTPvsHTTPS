@@ -19,13 +19,8 @@
 ### How does it work exactly:
 ##### The Schannel authentication protocol suite is based on public key cryptography. The Schannel suite includes Transport Layer Security (TLS), Secure Sockets Layer (SSL) version 3.0, SSL version 2.0, and Private Communications Transport (PCT). All Schannel protocols are based on a client/server model.
 
-## HTTPS:
-Hyper Text Transfer Protocol Secure, we also can say its, an HTTP on top of SSL/TLS.
-
 ## SSL/TLS:
-### Stands for:
-Secure Sockets Layer/Transport Layer Security.
-### Hashing in use:
+### Hashing Algorithms Used:
 MD5, SHA1, SHA256.
 
 
